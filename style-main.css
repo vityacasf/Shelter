@@ -16,3 +16,7 @@
 body{
     margin: 0;
 }
+
+.nav-menu{
+    list-style-type: none;
+}
